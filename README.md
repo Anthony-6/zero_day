@@ -1,2 +1,1 @@
-# zero_day
-# zero_day
+create an other branch (update_script) add new file in bash (98) change text in bash file (in best and school file)
